@@ -1,0 +1,11 @@
+A. What is reverse-i-search in a Linux terminal?
+    Ans: reverse-i-search is used to find the past used commands.
+
+B. How do you list out the hidden directories using Linux command line tool?
+    Ans: "ls -a" is used to list all files including hidden directories.
+
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+    Ans: I would rate 8/10 using Linux-based OS, I'm currently using MacBook Air 2021 which is not Linux btw but many of the cammands are similar.
+
+D. Have you ever used Servers to host any web applications in the past? If yes, what services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+    Ans: I've used Nginx to serve my Django Web app using Gunicorn 
